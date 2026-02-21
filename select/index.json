@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウォンテッド・デッド・オア・アライヴ",
+  "base_artist": "Bon Jovi",
+  "createdAt": "2026-02-21T11:54:49.660349Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wanted Dead Or Alive",
+      "artist": "Bon Jovi",
+      "has_synced": false,
+      "path": "select/pl_01_Wanted_Dead_Or_Alive_Bon_Jovi.txt"
+    }
+  ]
+}
